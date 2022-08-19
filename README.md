@@ -10,6 +10,9 @@ I am a first-year student from the National University of Singapore majoring in 
 4. MA1521 Calculus for Computing
 5. CS2030S Programming Methodology II
 6. CS2040S Data Structures and Algorithms
+7. CS2100 Computer Organisation
+8. CS2105 Introduction to Computer Networks
+9. ST2334 Probability and Statistics
 
 ## Languages, Tools and Frameworks I use or learn
 - __Familiar__
@@ -19,6 +22,7 @@ I am a first-year student from the National University of Singapore majoring in 
    4. vim
 - __Little__
    1. Python
+   2. C
 - __Ready to learn__
    1. Node.js
    2. Express
@@ -28,10 +32,17 @@ I am a first-year student from the National University of Singapore majoring in 
 ## Education
 - National University of Singapore	Aug 2021 - May 2025
     * Bachelor of Computing in Computer Science 
-- Changjun High School China	Sep 2018 - Jun 2021
-    * High School Diploma 
 
-## Extra Curricular Activities
+## Work Experience
+- Hunan Kylinsec Technology Co., Ltd, Front-end Web Developer Jun 2022 - Jul 2022
+    * Learned the concepts of Virtualization, Cluster and Cloud, and had a preliminary understanding of web design
+    * Hosted daily morning meetings to learn the software development process
+    * Created multiple virtual servers and deployed a Master-Slave cluster on the Kylinsec cloud servers
+    * Compiled cloud server runtime through docker in Linux OS and swapped the compiled binary into the nested cloud testbed
+    * Checked out Manage Console source from Jenkins, compiled it through Grails in IntelliJ IDEA, and established a web development environment
+    * Fixed the bug of the mismatch of the number of CPU cores shown on the Zombie Cloud server webpage
+    
+## Extracurricular Activities
 - Heralds Musical Club at High School, Director	Sep 2018 - Jun 2021
     * Choreographed and instructed dance in club, guided more than 30 club members in vocal practice and chorus training
     * Conducted three musical shows in school theater as main actor
