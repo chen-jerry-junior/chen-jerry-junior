@@ -1,6 +1,6 @@
 # Jiarui Chen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a student from the National University of Singapore majoring in Computer Science. I am trying to be a good developer, computer engineer. I am interested in artificial intelligence, although I don't know much, but I hope to further expand in this field.
+I am a Computer Science student from the National University of Singapore. I am trying to be a good developer and a senior computer engineer. I am interested in fields such as Artificial Intelligence, Computer Graphics and Games, and Software Engineering. I hope to further expand in these fields and I am looking forward to meeting some awesome people.
 
 ---
 ## Computer Science Cources I had taken
