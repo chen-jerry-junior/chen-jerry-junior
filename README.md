@@ -19,16 +19,16 @@ I am a student from the National University of Singapore majoring in Computer Sc
 13. CS2107 Introduction to Information Security
 
 ## Languages, Tools and Frameworks I use or learn
-- __Familiar__
+- __Skilled__
    1. Java
    2. JavaScript
    3. Intellij Idea
    4. vim
-- __Normal__
+- __Familiar__
    1. Python
    2. C
    3. Visual Studio Code
-- __Learning__
+- __Ready to Learn__
    1. Node.js
    2. Express
    3. Vue
