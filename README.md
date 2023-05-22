@@ -21,13 +21,13 @@ I am a Computer Science student from the National University of Singapore. I am 
 ## Languages, Tools and Frameworks I use or learn
 - __Skilled__
    1. Java
-   2. JavaScript
-   3. Intellij Idea
-   4. vim
+   2. Intellij Idea
+   3. vim
 - __Familiar__
    1. Python
    2. C
-   3. Visual Studio Code
+   3. JavaScript
+   4. Visual Studio Code
 - __Ready to Learn__
    1. Node.js
    2. Express
@@ -46,6 +46,21 @@ I am a Computer Science student from the National University of Singapore. I am 
     * Checked out Manage Console source from Jenkins, compiled it through Grails in IntelliJ IDEA, and established a web development environment
     * Fixed the bug of the mismatch of the number of CPU cores shown on the Zombie Cloud server webpage
     
+## Projects
+- Team Lead, CS2103T, National University of Singapore, Feb 2023 - Apr 2023
+    * Completed a 7k Loc brownfield project named TeamBuilder with 3 undergrad based on the project AddressBook Level-3 for a software development module at NUS
+    * Designed and implemented a desktop application for students to manage contacts and build multidisciplinary teams based on different requirements
+    * Developed features to facilitate team management by users, updated the GUI through SceneBuilder to display a team list created by users
+    * Arranged weekly meet-ups to discuss about the project and distributed tasks such as documentation, UI, testing
+    * Released project on Github: github.com/AY2223S2-CS2103T-T17-1/tp
+
+- Individual Developer, CS2103T, National University of Singapore, Jan 2023 - Feb 2023
+    * Carried out a 1.6k Loc greenfield project named Space-Lin for a software development module at NUS
+    * Designed and implemented features aimed to keep track of different tasks for users, applied I/O redirection technique to test the text UI
+    * Integrated Gradle in the project and added JUnit tests, studied GitHub related techniques such as Markdown
+    * Studied on JavaFX and Built a GUI through SceneBuilder, polished the GUI to make the project more applicable for desktop users
+    * Released project on Github: github.com/chen-jerry-junior/ip
+   
 ## Competitions
 - The International Genetically Engineered Machine (iGEM),	Jul 2019 - Nov 2019
     * Studied antibiotics and mathematical modeling with Dr. Ruyi Shi and Dr. Zeng from Worldshaper Academy
