@@ -17,48 +17,74 @@ I am a Computer Science student from the National University of Singapore. I am 
 11. CS2101 Effective Communication for Computing Professionals
 12. CS2106 Introduction to Operating Systems
 13. CS2107 Introduction to Information Security
+14. CS2102 Database Systems
+15. CS2109S Introduction to AI and Machine Learning
+16. CS3230 Design and Analysis of Algorithms
+17. CS3241 Computer Graphics
+18. CS3247 Game Development
+19. CS4225 Big Data Systems for Data Science
 
 ## Languages, Tools and Frameworks I use or learn
 - __Skilled__
    1. Java
-   2. Intellij Idea
-   3. vim
-- __Familiar__
-   1. Python
-   2. C
-   3. JavaScript
+   2. Python
+   3. Intellij Idea
    4. Visual Studio Code
-- __Ready to Learn__
-   1. Node.js
-   2. Express
-   3. Vue
+   5. Vim
+- __Familiar__
+   1. C++/C/C#
+   2. SQL
+   3. JavaScript
+   4. Unity
+   5. Unreal Engine
+   6. PostgreSQL
+   7. JavaFX
+   8. JUnit5
 
 ## Education
-- National University of Singapore	Aug 2021 - May 2025
+- National University of Singapore	Aug 2021 - May 2025(Expected)
     * Bachelor of Computing in Computer Science 
 
 ## Work Experience
-- Hunan Kylinsec Technology Co., Ltd, Front-end Web Developer Jun 2022 - Jul 2022
-    * Learned the concepts of Virtualization, Cluster and Cloud, and had a preliminary understanding of web design
-    * Hosted daily morning meetings to learn the software development process
-    * Created multiple virtual servers and deployed a Master-Slave cluster on the Kylinsec cloud servers
-    * Compiled cloud server runtime through docker in Linux OS and swapped the compiled binary into the nested cloud testbed
+- Hunan Kylinsec Technology Co., Ltd | Back-end Web Developer | Changsha, China | Jun 2022 - Jul 2022
+    * Created multiple virtual servers and deployed a Master-Slave cluster on the Kylinsec cloud servers.
+    * Acquired proficiency in Virtualization, Cluster, and Cloud, alongside foundational knowledge in web design. Facilitated
+daily morning meetings to drive software development collaboration.
+    * Compiled cloud server runtime through docker in Linux OS. Swapped the compiled binary into the nested cloud testbed.
+    * Configured web development environment by compiling Manage Console source from Jenkins using Grails in IntelliJ IDEA.
     * Checked out Manage Console source from Jenkins, compiled it through Grails in IntelliJ IDEA, and established a web development environment
-    * Fixed the bug of the mismatch of the number of CPU cores shown on the Zombie Cloud server webpage
+    * Resolved CPU core mismatch on the Zombie Cloud server webpage by correcting and modifying the SQL queries.
+
+## Research Experience
+- Private VR Chat Channels User Experiences in Casual Social | Developer | Singapore | Aug 2023 - Present
+  - NUS Undergraduate Research Opportunities Programme, under supervision by Prof. Anand Bhojan
+    * Conducted a literature review on Human-Computer Interaction. Researched the related voice control in the VR metaverse.
+    * Built simulators to model user scenarios and quantify user experiences. Formulated and tested four research questions to
+enhance user experience through private chat channels in social virtual reality.
+    * Studied the Application Programming Interface (API) of a social virtual reality platform after screening the largest social
+VR applications to construct a private communicating channel packet for testing.
+
+- Photo De-hazing Using Machine Learning Techniques | Changsha, China | May 2023 - Jul 2023
+  - Research Assistant at Hunan University, under supervision by Prof. Huailiang Tan
+    * Implemented a photo de-hazing AI model to gain proficiency in image processing through machine learning.
+    * Learned image processing acceleration through GPU and Cuda technology.
     
 ## Projects
-- Team Lead, CS2103T, National University of Singapore, Feb 2023 - Apr 2023
-    * Completed a 7k Loc brownfield project named TeamBuilder with 3 undergrad based on the project AddressBook Level-3 for a software development module at NUS
-    * Designed and implemented a desktop application for students to manage contacts and build multidisciplinary teams based on different requirements
-    * Developed features to facilitate team management by users, updated the GUI through SceneBuilder to display a team list created by users
-    * Arranged weekly meet-ups to discuss about the project and distributed tasks such as documentation, UI, testing
+- TeamBuilder | Team Leader | National University of Singapore | Feb 2023 - Apr 2023
+    * Developed a desktop application facilitating student contact management and multidisciplinary team formation based on
+diverse criteria.
+    * Completed a 7k Loc brownfield project named TeamBuilder with three undergrads based on the project AddressBook Level-
+3 for a software development module at NUS.
+    * Developed features to facilitate team management by users, and updated the GUI through SceneBuilder to display a team
+list created by users.
+    * Organized weekly scrum meetings, assigning tasks for documentation, UI development, and testing.
     * Released project on Github: github.com/AY2223S2-CS2103T-T17-1/tp
 
-- Individual Developer, CS2103T, National University of Singapore, Jan 2023 - Feb 2023
-    * Carried out a 1.6k Loc greenfield project named Space-Lin for a software development module at NUS
-    * Designed and implemented features aimed to keep track of different tasks for users, applied I/O redirection technique to test the text UI
-    * Integrated Gradle in the project and added JUnit tests, studied GitHub related techniques such as Markdown
-    * Studied on JavaFX and Built a GUI through SceneBuilder, polished the GUI to make the project more applicable for desktop users
+- Space-Lin | Individual Developer | National University of Singapore | Jan 2023 - Feb 2023
+    * Carried out a 1.6k Loc greenfield project named Space-Lin for a software development module at NUS.
+    * Designed and implemented task-tracking features, incorporating I/O redirection techniques for text UI testing.
+    * Integrated Gradle in the project and added JUnit tests, studied GitHub-related techniques such as Markdown.
+    * Developed a desktop application using JavaFX and SceneBuilder. Enhanced user experiences through refined GUI design.
     * Released project on Github: github.com/chen-jerry-junior/ip
    
 ## Competitions
