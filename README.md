@@ -1,59 +1,23 @@
 # Jiarui Chen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a Computer Science student from the National University of Singapore. I am trying to be a good developer and a senior computer engineer. I am interested in fields such as Artificial Intelligence, Computer Graphics and Games, Database Systems, and Software Engineering. I hope to further expand in these fields and I am looking forward to meeting some awesome people.
+I am having the Master of Science degree in Computer Science at the University of California San Diego. I achieved my bachelor degree at the National University of Singapore. I am interested in fields such as Artificial Intelligence, Computer Graphics and Games, Database Systems, and Software Engineering. I hope to further expand in these fields and I am looking forward to meeting some awesome people.
 
 ---
-## Computer Science Cources I had taken
-1. CS1101S Programming Methodology
-2. CS1231S Discrete Structures
-3. MA2001 Linear Algebra I
-4. MA1521 Calculus for Computing
-5. CS2030S Programming Methodology II
-6. CS2040S Data Structures and Algorithms
-7. CS2100 Computer Organisation
-8. CS2105 Introduction to Computer Networks
-9. ST2334 Probability and Statistics
-10. CS2103T Software Engineering
-11. CS2101 Effective Communication for Computing Professionals
-12. CS2106 Introduction to Operating Systems
-13. CS2107 Introduction to Information Security
-14. CS2102 Database Systems
-15. CS2109S Introduction to AI and Machine Learning
-16. CS3230 Design and Analysis of Algorithms
-17. CS3241 Computer Graphics
-18. CS3247 Game Development
-19. CS4225 Big Data Systems for Data Science
-20. CP3880 Advanced Technology Attachment Programme
-21. CP3209 Undergraduate Research Project in Computing
-22. CS4350 Game Development Project
-23. CS4240 Interaction Design for Virtual and Augmented Reality
-24. CS3223 Database Systems Implementation
-25. CS3263 Foundations of Artificial Intelligence
-
-## Languages, Tools and Frameworks I use or learn
-- __Skilled__
-   1. Java
-   2. Python
-   3. Intellij Idea
-   4. Visual Studio Code
-   5. Vim
-- __Familiar__
-   1. C++/C/C#
-   2. SQL
-   3. JavaScript
-   4. Unity
-   5. Unreal Engine
-   6. PostgreSQL
-   7. JavaFX
-   8. JUnit5
 
 ## Education
-- National University of Singapore	Aug 2021 - May 2025(Expected)
-    * Bachelor of Computing in Computer Science 
+- University of California San Diego	Sep 2025 - May 2027 (Expected)
+    * Master of Science in Computer Science
+- National University of Singapore	Aug 2021 - May 2025
+    * Bachelor of Computing in Computer Science
+
+## PUBLICATION
+- J. Chen, Y. Hong, X. Loo, A. Bhojan, Private Chat in a Public Space of Metaverse Systems
+- J. Chen, Memory Assisted LLM for Personalized Recommendation System
+- J. Chen, J. Purba, R. Hilmawan, A. Bhojan, S. Goh, Q. Ng, Enhancing Breast Cancer Cryoablation Training: A Randomized Study on the Role of VR Simulation in Medical Education
 
 ## Work Experience
 - Johnson & Johnson (JNJ) | Observability Intern under CLOUDX ENG | Singapore | May 2024 - Nov 2024
-    * Developed an end-to-end time series data forecasting pipeline for anomaly detection. Deployed the framework and incorporated it with cutting-edge LLM to collect, manage, and analyze log data stream.
+    * Developed an end-to-end time series data forecasting pipeline for anomaly detection. Deployed the framework and incorporated it with cutting-edge deep learning models and algorithms to collect, manage, and analyze log data stream.
     * Designed and implemented hierarchical forecasting models (single/multiple step prediction). Achieved a re-scaled MAE of 0.0311 using a CNN for single-step predictions, and 0.033 with an autoregressive RNN for multi-step predictions.
     * Implemented and experimented with advanced models including TFT (Temporal Fusion Transformer), N-Beats, and N-HiTS with Pytorch framework. Incorporated feature engineering to capture weekly patterns from timestamps.
     * Developed a data ETL pipeline to extract data from JNJ’s VictoriaMetrics database and processed it as a new time series.
@@ -104,15 +68,31 @@ list created by users.
     * Integrated Gradle in the project and added JUnit tests, studied GitHub-related techniques such as Markdown.
     * Developed a desktop application using JavaFX and SceneBuilder. Enhanced user experiences through refined GUI design.
     * Released project on Github: github.com/chen-jerry-junior/ip
-   
-## Competitions
-- The International Genetically Engineered Machine (iGEM),	Jul 2019 - Nov 2019
-    * Studied antibiotics and mathematical modeling with Dr. Ruyi Shi and Dr. Zeng from Worldshaper Academy
-    * Carried out experiments in gene editing and molecular biology at Zhejiang University with experimentalist Fangliang Huang
-    * Constructed a detective system for antibiotics and a degradation system that used enzymes to decompose antibiotics
-    * Completed the mathematical modeling task alone and wrote a 15-page wiki for the modeling of the detective system
+
+## Skills
+- __Programming Language__
+   1. Java
+   2. Python
+   3. JavaScript
+   4. C
+   5. C++
+   6. C#
+   7. SQL
+- __Framework__
+   1. Intellij Idea
+   2. VS Code
+   3. Vim
+   4. Unity
+   5. Unreal Engine
+   6. PostgreSQL
+   7. JavaFX
+   8. JUnit5
+
 
 ## Awards
+- 2025 Certificate of Distinction in the Computer Graphics and Games Focus Area
+- 2025 Certificate of Merit in the Database Systems Focus Area
+- 2025 The 26th STePS NUS School of Computing Term Project Showcase, Third Prize
 - 2024 The 25th STePS NUS School of Computing Term Project Showcase, Best Project Award-Platinum
 - 2024 National University of Singapore, Dean’s List
 - 2019 International Genetically Engineered Machine (iGEM), Gold Award.
@@ -120,7 +100,13 @@ list created by users.
 - 2020 Math Kangaroo China, Silver Award for Level 6 (11th and 12th grade).
 - 2020 International Economics Olympiad China, Second Prize of Senior Level in the Preliminary.
 - 2020 National History Day (NHD) China Research Paper Contest, 2nd Place, Excellent Use of Primary Source, Excellence in Chinese History and Excellence in Medical/Epidemiological History.
- 
+
+## Competitions
+- The International Genetically Engineered Machine (iGEM),	Jul 2019 - Nov 2019
+    * Studied antibiotics and mathematical modeling with Dr. Ruyi Shi and Dr. Zeng from Worldshaper Academy
+    * Carried out experiments in gene editing and molecular biology at Zhejiang University with experimentalist Fangliang Huang
+    * Constructed a detective system for antibiotics and a degradation system that used enzymes to decompose antibiotics
+    * Completed the mathematical modeling task alone and wrote a 15-page wiki for the modeling of the detective system
 
 <div align="center">
   </a>
