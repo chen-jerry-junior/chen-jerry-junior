@@ -12,7 +12,7 @@ I am taking the Master of Science degree in Computer Science at the University o
 
 ## PUBLICATION
 - J. Chen, Y. Hong, X. Loo, A. Bhojan, Private Chat in a Public Space of Metaverse Systems
-- J. Chen, Memory Assisted LLM for Personalized Recommendation System
+- J. Chen, Memory Assisted LLM for Personalized Recommendation System (https://arxiv.org/abs/2505.03824)
 - J. Chen, J. Purba, R. Hilmawan, A. Bhojan, S. Goh, Q. Ng, Enhancing Breast Cancer Cryoablation Training: A Randomized Study on the Role of VR Simulation in Medical Education
 
 ## Work Experience
