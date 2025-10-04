@@ -1,6 +1,6 @@
 # Jiarui Chen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am having the Master of Science degree in Computer Science at the University of California San Diego. I achieved my bachelor degree at the National University of Singapore. I am interested in fields such as Artificial Intelligence, Computer Graphics and Games, Database Systems, and Software Engineering. I hope to further expand in these fields and I am looking forward to meeting some awesome people.
+I am taking the Master of Science degree in Computer Science at the University of California San Diego. I achieved my bachelor degree at the National University of Singapore. I am interested in fields such as Artificial Intelligence, Computer Graphics and Games, Database Systems, and Software Engineering. I hope to further expand in these fields and I am looking forward to meeting some awesome people.
 
 ---
 
