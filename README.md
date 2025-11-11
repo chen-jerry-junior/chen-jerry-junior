@@ -16,7 +16,7 @@ I am taking the Master of Science degree in Computer Science at the University o
 - J. Chen, J. Purba, R. Hilmawan, A. Bhojan, S. Goh, Q. Ng, Enhancing Breast Cancer Cryoablation Training: A Randomized Study on the Role of VR Simulation in Medical Education
 
 ## Work Experience
-- Johnson & Johnson (JNJ) | Observability Intern under CLOUDX ENG | Singapore | May 2024 - Nov 2024
+- Johnson & Johnson (JNJ) | CLOUDX ENG Intern  | Singapore | May 2024 - Nov 2024
     * Developed an end-to-end time series data forecasting pipeline for anomaly detection. Deployed the framework and incorporated it with cutting-edge deep learning models and algorithms to collect, manage, and analyze log data stream.
     * Designed and implemented hierarchical forecasting models (single/multiple step prediction). Achieved a re-scaled MAE of 0.0311 using a CNN for single-step predictions, and 0.033 with an autoregressive RNN for multi-step predictions.
     * Implemented and experimented with advanced models including TFT (Temporal Fusion Transformer), N-Beats, and N-HiTS with Pytorch framework. Incorporated feature engineering to capture weekly patterns from timestamps.
