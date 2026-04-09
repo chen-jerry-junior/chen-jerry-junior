@@ -21,7 +21,7 @@ I am currently taking the Master of Science degree in Computer Science at the Un
     * Collaborated with the National University Hospital to examine its effectiveness with 21 medical student participants.
     * Implemented key features including an in-game tablet for surgery planning, ultrasound imaging for 2D cross-sectional views of the breast, cryoablation processes, and a procedural point system that tracks surgical accuracy.
 
-- Johnson & Johnson (JNJ) | CLOUDX ENG Intern | Singapore | May 2024 - Nov 2024
+- Johnson & Johnson (JNJ) | Machine Learning Engineer Intern, Enterprise Observability | Singapore | May 2024 - Nov 2024
     * Developed an end-to-end time series data forecasting pipeline for anomaly detection. Deployed the framework and incorporated it with cutting-edge deep learning models and algorithms to collect, manage, and analyze log data stream.
     * Designed and implemented hierarchical forecasting models (single/multiple step prediction). Achieved a re-scaled MAE of 0.0311 using a CNN for single-step predictions, and 0.033 with an autoregressive RNN for multi-step predictions.
     * Implemented and experimented with advanced models including TFT (Temporal Fusion Transformer), N-Beats, and N-HiTS with Pytorch framework. Incorporated feature engineering to capture weekly patterns from timestamps.
@@ -40,24 +40,19 @@ runtime environments using Docker within a CI/CD pipeline
     * Paper submitted to The Web Conference, under review.
 
 - Private VR Chat Channels User Experiences in Casual Social | Aug 2023 - May 2024
-  - NUS Undergraduate Research Opportunities Programme, under supervision by Prof. Anand Bhojan
     * Researched related voice control in the VR metaverse to improve user experiences.
     * Built simulators to model user scenarios and quantify user experiences. Formulated and tested four research questions to enhance user experience through private chat channels in social virtual reality.
     * Analyzed APIs of major VR platforms to design and test a private communication channel packet for enhanced user privacy.
     * Paper submitted to ACM MMSys, under review.
 
 - Photo De-hazing Using Machine Learning Techniques | May 2023 - Jul 2023
-  - Research Assistant at Hunan University, under supervision by Prof. Huailiang Tan
     * Implemented a photo de-hazing AI model to gain proficiency in image processing through machine learning.
     * Learned image processing acceleration through GPU and Cuda technology.
     
 - TeamBuilder | Team Leader | National University of Singapore | Feb 2023 - Apr 2023
-    * Developed a desktop application facilitating student contact management and multidisciplinary team formation based on
-diverse criteria.
-    * Completed a 7k Loc brownfield project named TeamBuilder with three undergrads based on the project AddressBook Level-
-3 for a software development module at NUS.
-    * Developed features to facilitate team management by users, and updated the GUI through SceneBuilder to display a team
-list created by users.
+    * Developed a desktop application facilitating student contact management and multidisciplinary team formation based on diverse criteria.
+    * Completed a 7k Loc brownfield project named TeamBuilder with three undergrads based on the project AddressBook Level-3 for a software development module at NUS.
+    * Developed features to facilitate team management by users, and updated the GUI through SceneBuilder to display a team list created by users.
     * Organized weekly scrum meetings, assigning tasks for documentation, UI development, and testing.
     * Released project on Github: github.com/AY2223S2-CS2103T-T17-1/tp
 
@@ -70,7 +65,7 @@ list created by users.
 
 ## Skills
 - __Programming Language__: Python, Java, Vim, Git, C++, C, C#, SQL, JavaScript
-- __Framework__: PyTorch, PyTorch Forecasting, TensorFlow, Keras, Scikit-learn, Spark, Hadoop, Unity, Unreal Engine, OpenGL, ROS2, Grails, JUnit5, JavaFX, VictoriaMetrics, Prometheus, Kubernetes, Docker, Jenkins, Grafana, PostgreSQL
+- __Framework__: PyTorch, PyTorch Forecasting, TensorFlow, Keras, Scikit-learn, CUDA, Spark, Hadoop, Flask, Unity, Unreal Engine, OpenGL, ROS2, Grails, JUnit5, JavaFX, VictoriaMetrics, Prometheus, Kubernetes, Docker, Jenkins, Grafana, PostgreSQL
 
 
 ## Award and Certificate
