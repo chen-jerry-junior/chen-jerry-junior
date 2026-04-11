@@ -1,6 +1,8 @@
 # Jiarui Chen <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am currently taking the Master of Science degree in Computer Science at the University of California San Diego. I got my bachelor degree at the National University of Singapore. I am interested in fields such as Artificial Intelligence, Computer Graphics and Games, Database Systems, and Software Engineering. I hope to further expand in these fields and I am looking forward to meeting some awesome people. You can check out my project demos at [My YouTube channel](https://www.youtube.com/@jerrychen-xs7gd).
+I am currently taking the Master of Science degree in Computer Science at the University of California San Diego. I got my bachelor degree at the National University of Singapore. I am interested in fields such as Artificial Intelligence, Computer Graphics and Games, Database Systems, and Software Engineering. I hope to further expand in these fields and I am looking forward to meeting some awesome people. 
+
+Project demos: [YouTube](https://www.youtube.com/@jerrychen-xs7gd).
 
 ---
 
@@ -58,14 +60,14 @@ I am currently taking the Master of Science degree in Computer Science at the Un
     * Completed a 7k Loc brownfield project named TeamBuilder with three undergrads based on the project AddressBook Level-3 for a software development module at NUS.
     * Developed features to facilitate team management by users, and updated the GUI through SceneBuilder to display a team list created by users.
     * Organized weekly scrum meetings, assigning tasks for documentation, UI development, and testing.
-    * Released project on [Github](github.com/AY2223S2-CS2103T-T17-1/tp)
+    * Released project on [Github](https://github.com/AY2223S2-CS2103T-T17-1/tp)
 
 - Space-Lin | Individual Developer | National University of Singapore | Jan 2023 - Feb 2023
     * Carried out a 1.6k Loc greenfield project named Space-Lin for a software development module at NUS.
     * Designed and implemented task-tracking features, incorporating I/O redirection techniques for text UI testing.
     * Integrated Gradle in the project and added JUnit tests, studied GitHub-related techniques such as Markdown.
     * Developed a desktop application using JavaFX and SceneBuilder. Enhanced user experiences through refined GUI design.
-    * Released project on [Github](github.com/chen-jerry-junior/ip)
+    * Released project on [Github](https://github.com/chen-jerry-junior/ip)
 
 ## Skills
 - __Programming Language__: Python, Java, Vim, Git, C++, C, C#, SQL, JavaScript
