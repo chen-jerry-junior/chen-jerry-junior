@@ -11,25 +11,27 @@ I am currently taking the Master of Science degree in Computer Science at the Un
     * Bachelor of Computing in Computer Science
 
 ## PUBLICATION
-- J. Chen, et al. Private Chat in a Public Space of Metaverse Systems [arXiv](https://arxiv.org/abs/2511.07993)
-- J. Chen, Memory Assisted LLM for Personalized Recommendation System [arXiv](https://arxiv.org/abs/2505.03824)
+- J. Chen, et al. Private Chat in a Public Space of Metaverse Systems, [arXiv](https://arxiv.org/abs/2511.07993)
+- J. Chen, Memory Assisted LLM for Personalized Recommendation System, [arXiv](https://arxiv.org/abs/2505.03824)
 - J. Chen, et al. Enhancing Breast Cancer Cryoablation Training via VR Simulation, Manuscript in preparation, 2026
 
 ## Work Experience
 - Anand Bhojan's Lab at NUS | Research Assistant | Singapore | Jan 2025 - Aug 2025
-    * Developed a VR-based surgical training simulator for breast cryoablation using Unreal Engine, providing a repeatable interactive alternative to traditional lecture-based or physical phantom training, which reduces costs potentially by ~$300+ per training for each trainee by replacing single-use phantom models.
+    * Developed a VR-based surgical training simulator for breast cryoablation using Unreal Engine, providing a repeatable interactive alternative to traditional lecture-based or physical phantom training.
+    * Reduces costs potentially by ~$300+ per training for each trainee by replacing single-use phantom models.
     * Collaborated with the National University Hospital to examine its effectiveness with 21 medical student participants.
     * Implemented key features including an in-game tablet for surgery planning, ultrasound imaging for 2D cross-sectional views of the breast, cryoablation processes, and a procedural point system that tracks surgical accuracy.
 
 - Johnson & Johnson (JNJ) | Machine Learning Engineer Intern, Enterprise Observability | Singapore | May 2024 - Nov 2024
-    * Developed an end-to-end time series data forecasting pipeline for anomaly detection. Deployed the framework and incorporated it with cutting-edge deep learning models and algorithms to collect, manage, and analyze log data stream.
-    * Designed and implemented hierarchical forecasting models (single/multiple step prediction). Achieved a re-scaled MAE of 0.0311 using a CNN for single-step predictions, and 0.033 with an autoregressive RNN for multi-step predictions.
-    * Implemented and experimented with advanced models including TFT (Temporal Fusion Transformer), N-Beats, and N-HiTS with Pytorch framework. Incorporated feature engineering to capture weekly patterns from timestamps.
-    * Developed a data ETL pipeline to extract data from JNJ’s VictoriaMetrics database and processed it as a new time series.
+    * Developed an end-to-end time series data forecasting & anomaly detection pipeline with cutting-edge deep learning models and algorithms, which is later deployed on JNJ’s Kubernetes GPU cluster after containerized as a Docker image.
+    * Exposed the service as an internal Flask API integrated into the J&J Grafana dashboards and used by ~500 engineers for real-time monitoring. Enabled access to expected patterns, capacity trends, faster incident triage, and proactive scaling.
+    * Built a scalable ETL pipeline to extract and transform metrics from VictoriaMetrics database into model-ready datasets.
+    * Designed and implemented hierarchical forecasting models (single/multiple step prediction). Implemented and experimented with advanced models including TFT (Temporal Fusion Transformer), N-Beats, and N-HiTS with Pytorch framework.
+    * Incorporated feature engineering to capture weekly patterns from timestamps, achieving an average estimation error within 3.3% for metrics with the scale of 100%.
+    * Led a team of 5 interns to develop a GPT-based advisory chatbot for sales reps. Integrated domain-specific embeddings to enable context-aware recommendations, improving users’ ability to prepare client visits and data-driven product guidance.
 
 - Hunan Kylinsec Technology Co., Ltd | Back-end Web Developer | Changsha, China | Jun 2022 - Jul 2022
-    * Deployed Master-Slave control clusters for Kylinsec’s cloud operating system on internal servers. Containerized cloud 
-runtime environments using Docker within a CI/CD pipeline
+    * Deployed Master-Slave control clusters for Kylinsec’s cloud operating system on internal servers. Containerized cloud runtime environments using Docker within a CI/CD pipeline (Jenkins & Grails).
     * Fixed a CPU core allocation bug in the Zombie Cloud module that caused orphaned processes to consume compute resources, restoring up to 2% cluster capacity through optimizing scheduler and query logic with SQL queries.
 
 ## Research & Project
@@ -37,13 +39,11 @@ runtime environments using Docker within a CI/CD pipeline
     * Developed an LLM-based recommendation system with ‘memory’ to research better recommendation precision with personalized history. Consolidated and analyzed user history with LLM before conducting recommendation tasks.
     * Extracted memory from each user preference data/watching history. Applied memory to predict ratings for unseen preferences, sorting memory by genre similarity.
     * Conducted extensive experiments on movie rating prediction tasks with MovieLens 100K Dataset. Improved memory efficiency and identified movie correlations by integrating external knowledge (e.g. IMDB rating, Director, Stars, etc).
-    * Paper submitted to The Web Conference, under review.
 
 - Private VR Chat Channels User Experiences in Casual Social | Aug 2023 - May 2024
     * Researched related voice control in the VR metaverse to improve user experiences.
     * Built simulators to model user scenarios and quantify user experiences. Formulated and tested four research questions to enhance user experience through private chat channels in social virtual reality.
     * Analyzed APIs of major VR platforms to design and test a private communication channel packet for enhanced user privacy.
-    * Paper submitted to ACM MMSys, under review.
 
 - PPP Loan Risk Prediction with Spark | Mar 2024 - Apr 2024
     * Built a Spark-based ML pipeline on Databricks to process large-scale PPP loan data, including class rebalancing, missing-value imputation, feature selection, and train/test split preparation for loan status prediction.
@@ -69,7 +69,7 @@ runtime environments using Docker within a CI/CD pipeline
 
 ## Skills
 - __Programming Language__: Python, Java, Vim, Git, C++, C, C#, SQL, JavaScript
-- __Framework__: PyTorch, PyTorch Forecasting, TensorFlow, Keras, Scikit-learn, CUDA, Spark, Hadoop, Flask, Unity, Unreal Engine, OpenGL, ROS2, Grails, JUnit5, JavaFX, VictoriaMetrics, Prometheus, Kubernetes, Docker, Jenkins, Grafana, PostgreSQL
+- __Framework__: PyTorch, PyTorch Forecasting, TensorFlow, Keras, Scikit-learn, CUDA, Spark, Hadoop, Flask, Unity, Unreal Engine, OpenGL, ROS2, Grails, JUnit5, JavaFX, VictoriaMetrics, Prometheus, Kubernetes, Docker, Jenkins, Grafana, PostgreSQL, Databricks
 
 
 ## Award and Certificate
