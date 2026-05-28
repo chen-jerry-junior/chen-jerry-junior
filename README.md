@@ -32,7 +32,7 @@ Project demos: [YouTube](https://www.youtube.com/@jerrychen-xs7gd).
     * Incorporated feature engineering to capture weekly patterns from timestamps, achieving an average estimation error within 3.3% for metrics with the scale of 100%.
     * Led a team of 5 interns to develop a GPT-based advisory chatbot for sales reps. Integrated domain-specific embeddings to enable context-aware recommendations, improving users’ ability to prepare client visits and data-driven product guidance.
 
-- Hunan Kylinsec Technology Co., Ltd | Back-end Web Developer | Changsha, China | Jun 2022 - Jul 2022
+- Hunan Kylinsec Technology Co., Ltd | Back-end Web Developer | Changsha, China | Jun 2022 - Aug 2022
     * Deployed Master-Slave control clusters for Kylinsec’s cloud operating system on internal servers. Containerized cloud runtime environments using Docker within a CI/CD pipeline (Jenkins & Grails).
     * Fixed a CPU core allocation bug in the Zombie Cloud module that caused orphaned processes to consume compute resources, restoring up to 2% cluster capacity through optimizing scheduler and query logic with SQL queries.
 
