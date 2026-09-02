@@ -17,8 +17,8 @@ Project demos: [YouTube](https://www.youtube.com/@jerrychen-xs7gd).
 - J. Chen, Memory Assisted LLM for Personalized Recommendation System, [arXiv](https://arxiv.org/abs/2505.03824)
 - J. Chen, et al. Enhancing Breast Cancer Cryoablation Training via VR Simulation, Manuscript in preparation, 2026
 
-## Work Experience
-- Anand Bhojan's Lab at NUS | Research Assistant | Singapore | Jan 2025 - Aug 2025
+## Experience
+- Anand Bhojan's Lab at NUS | Research Assistant | Singapore | Jan 2025 - May 2025
     * Developed a VR-based surgical training simulator for breast cryoablation using Unreal Engine, providing a repeatable interactive alternative to traditional lecture-based or physical phantom training.
     * Reduces costs potentially by ~$300+ per training for each trainee by replacing single-use phantom models.
     * Collaborated with the National University Hospital to examine its effectiveness with 21 medical student participants.
@@ -32,7 +32,7 @@ Project demos: [YouTube](https://www.youtube.com/@jerrychen-xs7gd).
     * Incorporated feature engineering to capture weekly patterns from timestamps, achieving an average estimation error within 3.3% for metrics with the scale of 100%.
     * Led a team of 5 interns to develop a GPT-based advisory chatbot for sales reps. Integrated domain-specific embeddings to enable context-aware recommendations, improving users’ ability to prepare client visits and data-driven product guidance.
 
-- Hunan Kylinsec Technology Co., Ltd | Back-end Web Developer | Changsha, China | Jun 2022 - Aug 2022
+- Hunan Kylinsec Technology Co., Ltd | Software Engineering Intern | Changsha, China | Jun 2022 - Aug 2022
     * Deployed Master-Slave control clusters for Kylinsec’s cloud operating system on internal servers. Containerized cloud runtime environments using Docker within a CI/CD pipeline (Jenkins & Grails).
     * Fixed a CPU core allocation bug in the Zombie Cloud module that caused orphaned processes to consume compute resources, restoring up to 2% cluster capacity through optimizing scheduler and query logic with SQL queries.
 
